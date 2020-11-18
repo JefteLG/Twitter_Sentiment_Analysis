@@ -4,4 +4,4 @@
 - Esse projeto é diretamente aplicavél a praticamente qualquer empresa que disponhe de meios onlines(Twitter, Instagran, Facebook, WebSite) para interagir com seus clientes.(Trabalhos Futuros)
 - Os algoritmos podem ser usados para detectar autamaticamente e possivelmente sinalizar tweets de odio e racismo.(Trabalhos Futuros)
 
-Objetivo desse estudo de caso: Analisar milhares de Twitter para prever o sentimento das pessoas(Positivo ou Negativo).
+`Objetivo desse estudo de caso: Analisar milhares de Twitter para prever o sentimento das pessoas(Positivo ou Negativo).`
