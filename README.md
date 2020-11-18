@@ -13,8 +13,7 @@ O projeto prático de Análise de sentimento do Twitter é dividido nas seguinte
 - Tarefa nº 2: Importar bibliotecas e conjuntos de dados.
 - Tarefa nº 3: Executar a análise exploratória de dados.
 - Tarefa nº 4: Plotar a nuvem de palavras.
-- Tarefa nº 5: Executar a limpeza de dados
- - remover pontuação.
+- Tarefa nº 5: Executar a limpeza de dados - remover pontuação.
 - Tarefa nº 6: Executar a limpeza de dados - remover palavras de parada(stop words).
 - Tarefa nº 7: Executar vetorização de contagem (Tokenization).
 - Tarefa nº 8: Criar um pipeline para remover palavras irrelevantes, pontuação e realizar tokenização.
