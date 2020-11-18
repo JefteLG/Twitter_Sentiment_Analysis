@@ -6,7 +6,7 @@
 
 `Objetivo desse estudo de caso: Analisar milhares de Twitter para prever o sentimento das pessoas(Positivo ou Negativo).`
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 O projeto prático na Análise de sentimento do Twitter é dividido nas seguintes tarefas:
 
 Tarefa nº 1: Entenda a Declaração do Problema e o caso de negócios.
