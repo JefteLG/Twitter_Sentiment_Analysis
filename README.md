@@ -9,24 +9,24 @@
 ## Estrutura do Projeto
 O projeto prático na Análise de sentimento do Twitter é dividido nas seguintes tarefas:
 
-Tarefa nº 1: Entenda a Declaração do Problema e o caso de negócios.
+Tarefa nº 1: Entender a Declaração do Problema e o caso de negócios.
 
 Tarefa nº 2: Importar bibliotecas e conjuntos de dados.
 
-Tarefa nº 3: Execute a análise exploratória de dados.
+Tarefa nº 3: Executar a análise exploratória de dados.
 
-Tarefa nº 4: Plote a nuvem de palavras.
+Tarefa nº 4: Plotar a nuvem de palavras.
 
-Tarefa nº 5: Execute a limpeza de dados - removendo pontuação.
+Tarefa nº 5: Executar a limpeza de dados - remover pontuação.
 
-Tarefa nº 6: Execute a limpeza de dados - remova palavras de parada.
+Tarefa nº 6: Executar a limpeza de dados - remover palavras de parada(stop words).
 
-Tarefa nº 7: Executar vetorização de contagem (tokenização).
+Tarefa nº 7: Executar vetorização de contagem (Tokenization).
 
-Tarefa nº 8: Crie um pipeline para remover palavras irrelevantes, pontuação e realizar tokenização.
+Tarefa nº 8: Criar um pipeline para remover palavras irrelevantes, pontuação e realizar tokenização.
 
 Tarefa nº 9: Compreender a teoria e a intuição por trás dos classificadores Naive Bayes.
 
-Tarefa nº 10: Treine um Classificador Naive Bayes.
+Tarefa nº 10: Treinar um Classificador Naive Bayes.
 
-Tarefa nº 11: Avalie o desempenho do modelo treinado.
+Tarefa nº 11: Avaliar o desempenho do modelo treinado.
