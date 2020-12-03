@@ -1,4 +1,5 @@
 # Twitter_Sentiment_Analysis
+<a href=\"https://colab.research.google.com/github/JefteLG/Twitter_Sentiment_Analysis/blob/main/twitter_sentiment_analysis.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
 - Nesse notebook é usado o Processamento de linguagem natural(NLP) juntamente com aprendizagem de maquina para construir um modelo que analisa milhares de Tweets para prever o sentimentos das pessoas.
 - A Inteligencia artificial e a analise de sentimentos baseadas em aprendizado de maquina é crucial para empresas, visto que, os insight revelado pela analise visa indicar o grau de qualidade dos serviços e/ou produtos da empresa de acordo com os clientes.(Trabalhos Futuros)
 - Esse projeto é diretamente aplicavél a praticamente qualquer empresa que disponhe de meios onlines(Twitter, Instagran, Facebook, WebSite) para interagir com seus clientes.(Trabalhos Futuros)
