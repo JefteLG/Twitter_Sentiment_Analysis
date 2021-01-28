@@ -24,3 +24,7 @@ O projeto prático de Análise de sentimento do Twitter é dividido nas seguinte
 
 
 # [IFTO_twitter_sentiment_analysis](/IFTO_twitter_sentiment_analysis.ipynb)
+
+
+
+# [Metaheuristicas.ipynb](/JefteLG/metaheuristicas/blob/main/metaheuristicas.ipynb)
