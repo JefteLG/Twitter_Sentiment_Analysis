@@ -20,3 +20,7 @@ O projeto prático de Análise de sentimento do Twitter é dividido nas seguinte
 - Tarefa nº 9: Compreender a teoria e a intuição por trás dos classificadores Naive Bayes.
 - Tarefa nº 10: Treinar um Classificador Naive Bayes.
 - Tarefa nº 11: Avaliar o desempenho do modelo treinado.
+
+
+
+# [IFTO_twitter_sentiment_analysis](/IFTO_twitter_sentiment_analysis.ipynb)
