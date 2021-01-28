@@ -27,4 +27,4 @@ O projeto prático de Análise de sentimento do Twitter é dividido nas seguinte
 
 
 
-# [Metaheuristicas.ipynb](/JefteLG/metaheuristicas/blob/main/metaheuristicas.ipynb)
+# [Metaheuristicas.ipynb](https://github.com/JefteLG/metaheuristicas/blob/main/metaheuristicas.ipynb)
