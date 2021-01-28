@@ -1,9 +1,9 @@
 Os notebooks abaixo explora um estudo de caso para analisar milhares de Tweets para prever os sentimentos(Positivo ou  Negativo) das pessoas
 
-# [Twitter_Sentiment_Analysis](https://github.com/JefteLG/Twitter_Sentiment_Analysis/blob/main/Notebooks/1_Primeira_Solucao/twitter_sentiment_analysis.ipynb)
+# [Twitter_Sentiment_Analysis.ipynb](https://github.com/JefteLG/Twitter_Sentiment_Analysis/blob/main/Notebooks/1_Primeira_Solucao/twitter_sentiment_analysis.ipynb)
 
 
-# [IFTO_twitter_sentiment_analysis](https://github.com/JefteLG/Twitter_Sentiment_Analysis/blob/main/Notebooks/2_Solucao_Melhorada/IFTO_twitter_sentiment_analysis.ipynb)
+# [IFTO_Twitter_Sentiment_Analysis.ipynb](https://github.com/JefteLG/Twitter_Sentiment_Analysis/blob/main/Notebooks/2_Solucao_Melhorada/IFTO_twitter_sentiment_analysis.ipynb)
 
 
 # [Metaheuristicas.ipynb](https://github.com/JefteLG/metaheuristicas/blob/main/metaheuristicas.ipynb)
